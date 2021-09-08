@@ -1,4 +1,4 @@
-Algoritmos y Programación 2 - FI UBA
+FI UBA - Algoritmos y Programación 2
 
 # Archivos de texto en C++
 
